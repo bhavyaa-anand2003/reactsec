@@ -1,0 +1,7 @@
+.para{
+    text-align:center;
+    background-image: linear-gradient(rgb(192, 255, 199),black );
+    padding: 20px;
+    box-shadow:  2px 2px;
+    color: aliceblue
+}
